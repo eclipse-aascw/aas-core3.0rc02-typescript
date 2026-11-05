@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2022 aas-core3.0rc02-typescript AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 import babel from "@rollup/plugin-babel";
 import resolve from "@rollup/plugin-node-resolve";
 import terser from "@rollup/plugin-terser";

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2022 aas-core3.0rc02-typescript AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 /**
  * Provide an implementation of the Asset Administration Shell V3.0 Release Candidate 2.
  *

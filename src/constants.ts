@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2022 aas-core3.0rc02-typescript AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 /**
  * Provide constant values of the meta-model.
  */
