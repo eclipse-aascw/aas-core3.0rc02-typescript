@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2022 aas-core3.0rc02-typescript AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 /**
  * Verify that the instances of the meta-model satisfy the invariants.
  *

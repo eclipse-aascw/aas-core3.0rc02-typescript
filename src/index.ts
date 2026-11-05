@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2022 aas-core3.0rc02-typescript AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 /**
  * Create, manipulate and de/serialize Asset Administration Shells.
  *
