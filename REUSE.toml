@@ -36,3 +36,19 @@ path = "test_data/**"
 precedence = "aggregate"
 SPDX-FileCopyrightText = "2022 aas-core3.0rc02-typescript AUTHORS"
 SPDX-License-Identifier = "MIT"
+
+# The meta-model and the code generated from it transcribe the AAS
+# specification: the docstrings and the doc comments derived from them quote
+# the definitions of the classes, attributes and constraints. That text keeps
+# the license of the specification, next to the MIT license of our own code.
+# The Release Candidate 2 of the specification by Plattform
+# Industrie 4.0 is licensed under CC BY 4.0.
+[[annotations]]
+path = [
+    "src/types.ts",
+    "src/constants.ts",
+    "src/verification.ts",
+]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2022 Plattform Industrie 4.0"
+SPDX-License-Identifier = "CC-BY-4.0"
